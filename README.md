@@ -1,29 +1,21 @@
-# Professional README Generator Starter Code
+# Professional README Generator
 
 ## Description
 
-CLI Data Processor is a command-line application that allows users to process data files through various transformation and analysis tasks. Designed to be simple yet powerful, this tool provides a streamlined workflow for data manipulation.
+Professional README Generator is a command-line application that leverages the Inquirer.js package to prompt users for input about their software project and generate a high-quality, professional README.md file. This tool is designed to streamline the creation of a well-structured README, allowing developers to focus more on their development tasks.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
 
 ## Installation
 
-To install CLI Data Processor, follow these steps:
+To install the README generator, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CLI-Data-Processor.git
+   git clone https://github.com/mmhilbert/readme-generator
 
 ## Credits 
 [GitHub Repo](https://github.com/mmhilbert/readme-generator) <br>
-[Application Video]()
+[Application Video](https://drive.google.com/file/d/12sLtKoWhzayRt4PWcXM5KUvfM2eJE7ly/view?usp=sharing)
 
 ## License 
 [License](https://img.shields.io/badge/license-MIT-blue.svg)

@@ -8,12 +8,12 @@ const questions = [
     {
         type: 'input',
         name: 'title',
-        message: 'enter README title here'
+        message: 'Enter README title here'
     },
     {
         type: 'input',
         name: 'description',
-        message: 'enter README desciption here'
+        message: 'Enter README desciption here'
     },
     {
         type: 'input',
@@ -23,12 +23,12 @@ const questions = [
     {
         type: 'input',
         name: 'usage',
-        message: 'provide instructions and examples for use.'
+        message: 'Provide instructions and examples for use.'
     },
     {
         type: 'input',
         name: 'credits',
-        message: 'list your collaborators with links to their GitHub profile',
+        message: 'Enter link to the GitHub repository for this project',
         validate: (input) => input.includes('github.com')
     },
     {

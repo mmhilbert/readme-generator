@@ -1,19 +1,19 @@
-# Title goes here
+# TItle of README
 
   ## Description
-  This is a description
+  Here is a description of the README
 
   ## Installation
-  Steps 
+  These are instructions to install
 
   ## Usage
-  use
+  Here are some examples 
 
   ## Credits
   [https://github.com](https://github.com)
 
   ## Instructions For Testing
-  instructions
+  Here are testing instructions for this application
 
   ## Licence
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br>
