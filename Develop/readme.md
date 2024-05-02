@@ -1,20 +1,20 @@
-# Hi
+# Title goes here
 
   ## Description
   This is a description
 
   ## Installation
-  1) open package 
+  Steps 
 
   ## Usage
-  use project this way
+  use
 
   ## Credits
-  github.com
+  [https://github.com](https://github.com)
 
   ## Instructions For Testing
-  testing instructions
+  instructions
 
   ## Licence
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)<br>
-    This project is licenced under the [Mozilla-2.0](https://opensource.org/licenses/MPL-2.0) license.
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br>
+    This project is licenced under the [MIT](https://opensource.org/licenses/MIT) license.

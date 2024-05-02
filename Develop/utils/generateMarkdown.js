@@ -62,7 +62,7 @@ export function generateMarkdown(data) {
   ${data.usage}
 
   ## Credits
-  ${data.credits}
+  [${data.credits}](${data.credits})
 
   ## Instructions For Testing
   ${data.testInstructions}
