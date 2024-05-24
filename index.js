@@ -34,7 +34,7 @@ const questions = [
     {
         type: 'input',
         name: 'testInstructions',
-        message: 'please provide testing instructions if applicable.'
+        message: 'Please provide testing instructions if applicable.'
     },
     {
         type: 'list',
@@ -60,7 +60,7 @@ const init = async () => {
     console.log(answers)
     
     const markdown = generateMarkdown(answers) 
-    writeToFile('./readme.md', markdown)
+    writeToFile('./generated/README.md', markdown)
 }
 
 // Function call to initialize app

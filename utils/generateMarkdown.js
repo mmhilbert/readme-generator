@@ -55,6 +55,14 @@ export function generateMarkdown(data) {
   ## Description
   ${data.description}
 
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [Instructions for Testing](#instructions-for-testing)
+  - [License](#license)
+
+
   ## Installation
   ${data.installation}
 
